@@ -279,7 +279,7 @@ const achievementSection = {
 
   achievementsCards: [
     {
-      title: "ICPC Participation 2023",
+      title: "ICPC Participation 2022",
       subtitle:
         "Competed in the International Collegiate Programming Contest (ICPC) and achieved a rank of 1048, showcasing my problem-solving skills and algorithmic proficiency in a competitive environment.",
       image: require("./assets/images/icpc.png"),
@@ -292,7 +292,7 @@ const achievementSection = {
       ]
     },
     {
-      title: "ICPC Participation 2024",
+      title: "ICPC Participation 2023",
       subtitle:
         "Competed in the International Collegiate Programming Contest (ICPC) in 2024 and achieved a rank of 745, demonstrating my problem-solving skills and algorithmic proficiency in a competitive environment. ",
       image: require("./assets/images/icpc.png"),
