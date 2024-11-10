@@ -362,6 +362,12 @@ const blogSection = {
       title: "Training an AI to Master the Snake Game with Reinforcement Learning",
       description:
         "This article explores training an AI to play the classic Snake game using reinforcement learning."
+    },
+    {
+      url: "https://medium.com/@Abhijeet__singh/introduction-to-machine-learning-with-python-3c17a68d6e89",
+      title: "Introduction to Machine Learning with Python",
+      description:
+        "The main focus of ML is to allow computer systems to learn from experience without explicitly programmed or human intervention."
     }
   ],
   display: true // Set false to hide this section, defaults to true
