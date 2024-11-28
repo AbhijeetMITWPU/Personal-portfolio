@@ -368,6 +368,12 @@ const blogSection = {
       title: "Introduction to Machine Learning with Python",
       description:
         "The main focus of ML is to allow computer systems to learn from experience without explicitly programmed or human intervention."
+    },
+    {
+      url: "https://medium.com/@Abhijeet__singh/mastering-machine-learning-the-ultimate-beginners-roadmap-7d67e63098c1",
+      title: "Mastering Machine Learning: The Ultimate Beginner's Roadmap",
+      description:
+        "Your ultimate beginner's guide to mastering machine learning."
     }
   ],
   display: true // Set false to hide this section, defaults to true
